@@ -1,0 +1,12 @@
+; Repository-specific Git configuration
+[user]
+	name = benziane
+	email = benziane@gmail.com
+
+[init]
+	defaultBranch = main
+
+[core]
+	filemode = false
+	autocrlf = true
+
